@@ -1,0 +1,311 @@
+TrainingData/Cells/cells_Frame00027.png 1 51 32 65 73
+TrainingData/Cells/cells_Frame00028.png 3 19 26 63 74 68 59 14 41 68 59 50 58
+TrainingData/Cells/cells_Frame00044.png 2 41 28 45 55 67 3 45 51
+TrainingData/Cells/cells_Frame00054.png 2 4 13 45 85 49 58 56 58
+TrainingData/Cells/cells_Frame00072.png 2 19 4 60 66 64 33 54 70
+TrainingData/Cells/cells_Frame00073.png 2 3 6 45 71 34 35 78 75
+TrainingData/Cells/cells_Frame00098.png 2 3 4 44 58 40 35 73 78
+TrainingData/Cells/cells_Frame00121.png 1 56 64 60 55
+TrainingData/Cells/cells_Frame00122.png 2 23 64 61 52 75 72 43 45
+TrainingData/Cells/cells_Frame00165.png 1 50 34 66 69
+TrainingData/Cells/cells_Frame00166.png 2 25 35 60 66 77 42 42 73
+TrainingData/Cells/cells_Frame00167.png 2 2 31 52 76 44 40 62 77
+TrainingData/Cells/cells_Frame00168.png 1 12 37 65 78
+TrainingData/Cells/cells_Frame00169.png 1 53 32 62 84
+TrainingData/Cells/cells_Frame00172.png 1 37 13 82 88
+TrainingData/Cells/cells_Frame00173.png 1 7 13 108 91
+TrainingData/Cells/cells_Frame00174.png 1 3 15 78 88
+TrainingData/Cells/cells_Frame00209.png 1 56 9 59 60
+TrainingData/Cells/cells_Frame00210.png 1 22 10 68 61
+TrainingData/Cells/cells_Frame00211.png 2 3 8 54 63 45 8 65 94
+TrainingData/Cells/cells_Frame00212.png 1 15 7 69 96
+TrainingData/Cells/cells_Frame00213.png 1 50 8 68 102
+TrainingData/Cells/cells_Frame00214.png 1 23 7 69 108
+TrainingData/Cells/cells_Frame00215.png 1 2 8 57 102
+TrainingData/Cells/cells_Frame00217.png 1 5 2 107 70
+TrainingData/Cells/cells_Frame00218.png 1 3 1 83 76
+TrainingData/Cells/cells_Frame00255.png 1 50 2 66 69
+TrainingData/Cells/cells_Frame00256.png 1 17 2 66 68
+TrainingData/Cells/cells_Frame00257.png 1 51 23 56 62
+TrainingData/Cells/cells_Frame00284.png 1 13 26 90 82
+TrainingData/Cells/cells_Frame00285.png 1 0 35 69 73
+TrainingData/Cells/cells_Frame00310.png 1 46 49 69 68
+TrainingData/Cells/cells_Frame00311.png 1 21 49 68 70
+TrainingData/Cells/cells_Frame00312.png 1 4 51 55 67
+TrainingData/Cells/cells_Frame00328.png 1 23 5 79 70
+TrainingData/Cells/cells_Frame00329.png 1 2 7 74 66
+TrainingData/Cells/cells_Frame00336.png 1 47 59 61 59
+TrainingData/Cells/cells_Frame00337.png 1 15 59 64 60
+TrainingData/Cells/cells_Frame00338.png 1 2 52 47 66
+TrainingData/Cells/cells_Frame00354.png 1 53 24 64 83
+TrainingData/Cells/cells_Frame00355.png 1 24 24 65 84
+TrainingData/Cells/cells_Frame00356.png 1 2 23 60 83
+TrainingData/Cells/cells_Frame00375.png 1 8 31 82 84
+TrainingData/Cells/cells_Frame00379.png 1 75 27 44 63
+TrainingData/Cells/cells_Frame00380.png 1 44 31 71 62
+TrainingData/Cells/cells_Frame00381.png 1 14 32 71 58
+TrainingData/Cells/cells_Frame00382.png 1 3 25 49 69
+TrainingData/Cells/cells_Frame00398.png 1 50 2 67 77
+TrainingData/Cells/cells_Frame00399.png 1 26 3 65 74
+TrainingData/Cells/cells_Frame00400.png 1 1 1 61 75
+TrainingData/Cells/cells_Frame00418.png 2 14 40 63 68 40 4 77 96
+TrainingData/Cells/cells_Frame00419.png 1 10 0 83 103
+TrainingData/Cells/cells_Frame00424.png 1 43 4 71 63
+TrainingData/Cells/cells_Frame00425.png 1 18 5 65 59
+TrainingData/Cells/cells_Frame00426.png 1 0 5 50 57
+TrainingData/Cells/cells_Frame00434.png 1 28 42 78 77
+TrainingData/Cells/cells_Frame00435.png 1 5 40 67 77
+TrainingData/Cells/cells_Frame00446.png 1 36 17 82 99
+TrainingData/Cells/cells_Frame00447.png 1 6 14 95 105
+TrainingData/Cells/cells_Frame00448.png 1 0 18 75 94
+TrainingData/Cells/cells_Frame00461.png 2 11 66 46 50 41 11 63 79
+TrainingData/Cells/cells_Frame00462.png 2 11 13 73 74 53 0 61 80
+TrainingData/Cells/cells_Frame00478.png 1 27 16 81 88
+TrainingData/Cells/cells_Frame00479.png 1 1 13 73 90
+TrainingData/Cells/cells_Frame00491.png 1 13 3 86 88
+TrainingData/Cells/cells_Frame00492.png 1 0 1 82 91
+TrainingData/Cells/cells_Frame00510.png 1 47 34 71 78
+TrainingData/Cells/cells_Frame00511.png 1 22 34 78 80
+TrainingData/Cells/cells_Frame00512.png 1 2 35 72 83
+TrainingData/Cells/cells_Frame00526.png 1 55 49 63 66
+TrainingData/Cells/cells_Frame00527.png 1 21 50 77 65
+TrainingData/Cells/cells_Frame00528.png 1 5 55 69 56
+TrainingData/Cells/cells_Frame00544.png 1 33 43 72 59
+TrainingData/Cells/cells_Frame00548.png 1 30 10 82 96
+TrainingData/Cells/cells_Frame00549.png 1 5 8 70 88
+TrainingData/Cells/cells_Frame00554.png 1 52 7 66 79
+TrainingData/Cells/cells_Frame00555.png 1 21 12 75 77
+TrainingData/Cells/cells_Frame00556.png 1 3 14 70 69
+TrainingData/Cells/cells_Frame00570.png 1 50 16 68 77
+TrainingData/Cells/cells_Frame00571.png 1 24 19 77 75
+TrainingData/Cells/cells_Frame00572.png 1 0 25 67 68
+TrainingData/Cells/cells_Frame00580.png 1 47 42 70 73
+TrainingData/Cells/cells_Frame00581.png 1 13 50 80 65
+TrainingData/Cells/cells_Frame00582.png 1 0 41 65 73
+TrainingData/Cells/cells_Frame00588.png 2 45 13 51 54 12 59 82 55
+TrainingData/Cells/cells_Frame00589.png 2 4 11 70 59 0 62 62 57
+TrainingData/Cells/cells_Frame00614.png 1 57 2 59 67
+TrainingData/Cells/cells_Frame00615.png 1 21 2 81 61
+TrainingData/Cells/cells_Frame00616.png 1 0 1 73 61
+TrainingData/Cells/cells_Frame00624.png 1 45 20 72 72
+TrainingData/Cells/cells_Frame00625.png 1 14 18 88 80
+TrainingData/Cells/cells_Frame00650.png 1 27 28 90 82
+TrainingData/Cells/cells_Frame00651.png 1 3 40 92 69
+TrainingData/Cells/cells_Frame00675.png 1 39 3 78 91
+TrainingData/Cells/cells_Frame00676.png 1 6 5 96 93
+TrainingData/Cells/cells_Frame00694.png 1 21 7 95 78
+TrainingData/Cells/cells_Frame00695.png 1 4 12 86 71
+TrainingData/Cells/cells_Frame00696.png 1 0 11 67 64
+TrainingData/Cells/cells_Frame00697.png 1 27 55 78 59
+TrainingData/Cells/cells_Frame00698.png 1 2 49 73 66
+TrainingData/Cells/cells_Frame00712.png 1 29 46 84 61
+TrainingData/Cells/cells_Frame00713.png 1 2 41 110 75
+TrainingData/Cells/cells_Frame00716.png 1 40 47 71 68
+TrainingData/Cells/cells_Frame00717.png 1 10 47 81 72
+TrainingData/Cells/cells_Frame00718.png 2 0 46 62 72 72 0 45 65
+TrainingData/Cells/cells_Frame00741.png 1 21 14 78 77
+TrainingData/Cells/cells_Frame00742.png 1 0 24 72 74
+TrainingData/Cells/cells_Frame00747.png 1 45 12 68 92
+TrainingData/Cells/cells_Frame00748.png 1 20 11 68 94
+TrainingData/Cells/cells_Frame00756.png 1 22 12 95 79
+TrainingData/Cells/cells_Frame00757.png 1 5 13 109 88
+TrainingData/Cells/cells_Frame00760.png 1 35 16 80 82
+TrainingData/Cells/cells_Frame00761.png 1 5 20 89 83
+TrainingData/Cells/cells_Frame00762.png 1 1 23 52 74
+TrainingData/Cells/cells_Frame00765.png 1 56 55 60 61
+TrainingData/Cells/cells_Frame00766.png 1 27 54 66 63
+TrainingData/Cells/cells_Frame00767.png 1 6 56 57 61
+TrainingData/Cells/cells_Frame00780.png 1 45 49 72 67
+TrainingData/Cells/cells_Frame00781.png 1 14 53 86 65
+TrainingData/Cells/cells_Frame00782.png 1 3 49 71 69
+TrainingData/Cells/cells_Frame00784.png 1 49 3 69 55
+TrainingData/Cells/cells_Frame00785.png 1 25 0 77 67
+TrainingData/Cells/cells_Frame00786.png 1 0 4 77 52
+TrainingData/Cells/cells_Frame00793.png 1 18 33 80 83
+TrainingData/Cells/cells_Frame00794.png 1 1 35 72 81
+TrainingData/Cells/cells_Frame00801.png 1 2 4 105 61
+TrainingData/Cells/cells_Frame00804.png 1 45 1 68 74
+TrainingData/Cells/cells_Frame00805.png 1 11 4 81 70
+TrainingData/Cells/cells_Frame00806.png 1 0 2 59 67
+TrainingData/Cells/cells_Frame00809.png 1 62 28 57 86
+TrainingData/Cells/cells_Frame00810.png 1 30 27 70 90
+TrainingData/Cells/cells_Frame00811.png 1 4 31 66 86
+TrainingData/Cells/cells_Frame00824.png 1 45 27 74 81
+TrainingData/Cells/cells_Frame00825.png 1 19 22 81 90
+TrainingData/Cells/cells_Frame00826.png 1 0 28 70 76
+TrainingData/Cells/cells_Frame00837.png 1 16 9 83 80
+TrainingData/Cells/cells_Frame00838.png 1 0 5 75 84
+TrainingData/Cells/cells_Frame00853.png 1 55 3 61 97
+TrainingData/Cells/cells_Frame00854.png 1 32 3 64 94
+TrainingData/Cells/cells_Frame00855.png 1 5 4 65 90
+TrainingData/Cells/cells_Frame00864.png 1 37 43 72 73
+TrainingData/Cells/cells_Frame00865.png 1 11 41 72 76
+TrainingData/Cells/cells_Frame00868.png 1 53 4 65 72
+TrainingData/Cells/cells_Frame00869.png 1 20 2 81 79
+TrainingData/Cells/cells_Frame00870.png 1 0 3 73 72
+TrainingData/Cells/cells_Frame00873.png 1 21 40 88 78
+TrainingData/Cells/cells_Frame00874.png 1 5 38 73 79
+TrainingData/Cells/cells_Frame00908.png 1 40 11 67 103
+TrainingData/Cells/cells_Frame00909.png 1 10 11 70 103
+TrainingData/Cells/cells_Frame00916.png 1 55 7 63 83
+TrainingData/Cells/cells_Frame00917.png 1 22 9 91 79
+TrainingData/Cells/cells_Frame00918.png 1 0 12 85 76
+TrainingData/Cells/cells_Frame00952.png 1 44 2 61 84
+TrainingData/Cells/cells_Frame00953.png 1 9 1 78 86
+TrainingData/Cells/cells_Frame00957.png 1 43 48 75 68
+TrainingData/Cells/cells_Frame00958.png 1 14 50 99 67
+TrainingData/Cells/cells_Frame00961.png 1 20 0 90 62
+TrainingData/Cells/cells_Frame00962.png 1 0 0 81 61
+TrainingData/Cells/cells_Frame01002.png 1 9 19 106 90
+TrainingData/Cells/cells_Frame01003.png 1 1 28 79 81
+TrainingData/Cells/cells_Frame01046.png 1 20 5 94 76
+TrainingData/Cells/cells_Frame01047.png 1 1 5 85 70
+TrainingData/Cells/cells_Frame01097.png 1 60 65 52 50
+TrainingData/Cells/cells_Frame01098.png 1 28 66 62 51
+TrainingData/Cells/cells_Frame01099.png 1 1 62 56 55
+TrainingData/Cells/cells_Frame01102.png 2 50 17 68 73 53 90 65 7
+TrainingData/Cells/cells_Frame01103.png 2 24 93 70 25 18 11 84 84
+TrainingData/Cells/cells_Frame01104.png 1 2 9 82 82
+TrainingData/Cells/cells_Frame01141.png 1 61 36 52 54
+TrainingData/Cells/cells_Frame01142.png 1 28 37 59 51
+TrainingData/Cells/cells_Frame01143.png 1 2 34 62 53
+TrainingData/Cells/cells_Frame01146.png 2 49 3 68 60 53 68 61 48
+TrainingData/Cells/cells_Frame01147.png 2 18 69 82 49 19 3 84 67
+TrainingData/Cells/cells_Frame01148.png 2 1 3 80 62 6 57 56 59
+TrainingData/Cells/cells_Frame01174.png 1 22 25 95 85
+TrainingData/Cells/cells_Frame01175.png 1 6 27 86 84
+TrainingData/Cells/cells_Frame01176.png 2 2 36 57 67 75 50 44 66
+TrainingData/Cells/cells_Frame01185.png 1 60 8 54 59
+TrainingData/Cells/cells_Frame01186.png 1 25 7 60 56
+TrainingData/Cells/cells_Frame01187.png 1 1 8 53 53
+TrainingData/Cells/cells_Frame01218.png 1 29 4 86 84
+TrainingData/Cells/cells_Frame01219.png 1 2 4 92 70
+TrainingData/Cells/cells_Frame01220.png 2 0 4 56 73 83 24 34 79
+TrainingData/Cells/cells_Frame01234.png 3 1 58 42 58 50 3 66 53 68 67 49 47
+TrainingData/Cells/cells_Frame01235.png 2 34 61 80 53 25 8 64 48
+TrainingData/Cells/cells_Frame01236.png 3 4 4 59 49 10 64 39 54 43 59 42 48
+TrainingData/Cells/cells_Frame01256.png 1 33 63 66 56
+TrainingData/Cells/cells_Frame01257.png 1 8 64 65 52
+TrainingData/Cells/cells_Frame01277.png 1 3 19 82 78
+TrainingData/Cells/cells_Frame01279.png 3 35 38 39 50 64 27 46 53 39 5 53 28
+TrainingData/Cells/cells_Frame01280.png 3 36 20 54 64 10 39 41 61 8 3 52 36
+TrainingData/Cells/cells_Frame01282.png 1 57 57 61 57
+TrainingData/Cells/cells_Frame01284.png 1 2 57 74 60
+TrainingData/Cells/cells_Frame01292.png 1 32 36 85 72
+TrainingData/Cells/cells_Frame01293.png 1 6 38 92 67
+TrainingData/Cells/cells_Frame01300.png 1 29 24 77 87
+TrainingData/Cells/cells_Frame01301.png 1 5 32 76 74
+TrainingData/Cells/cells_Frame01314.png 1 48 25 66 79
+TrainingData/Cells/cells_Frame01315.png 1 13 23 79 85
+TrainingData/Cells/cells_Frame01321.png 1 3 2 79 72
+TrainingData/Cells/cells_Frame01323.png 2 31 7 49 62 69 5 45 58
+TrainingData/Cells/cells_Frame01324.png 2 6 12 41 59 31 5 58 47
+TrainingData/Cells/cells_Frame01326.png 1 47 21 70 87
+TrainingData/Cells/cells_Frame01327.png 1 14 29 95 81
+TrainingData/Cells/cells_Frame01328.png 1 2 31 82 79
+TrainingData/Cells/cells_Frame01336.png 1 32 7 85 71
+TrainingData/Cells/cells_Frame01337.png 1 5 5 90 76
+TrainingData/Cells/cells_Frame01344.png 1 27 6 85 78
+TrainingData/Cells/cells_Frame01345.png 1 4 6 74 73
+TrainingData/Cells/cells_Frame01349.png 1 26 33 87 82
+TrainingData/Cells/cells_Frame01350.png 1 6 45 82 72
+TrainingData/Cells/cells_Frame01351.png 1 2 43 57 74
+TrainingData/Cells/cells_Frame01358.png 1 47 8 69 65
+TrainingData/Cells/cells_Frame01359.png 1 12 0 77 77
+TrainingData/Cells/cells_Frame01370.png 1 50 1 66 85
+TrainingData/Cells/cells_Frame01371.png 1 12 6 98 71
+TrainingData/Cells/cells_Frame01372.png 1 2 4 79 77
+TrainingData/Cells/cells_Frame01393.png 1 28 11 85 89
+TrainingData/Cells/cells_Frame01394.png 1 7 19 79 72
+TrainingData/Cells/cells_Frame01438.png 1 6 1 83 62
+TrainingData/Cells/cells_Frame01450.png 1 26 51 89 64
+TrainingData/Cells/cells_Frame01451.png 1 3 45 82 71
+TrainingData/Cells/cells_Frame01494.png 1 28 20 85 63
+TrainingData/Cells/cells_Frame01495.png 1 4 18 82 68
+TrainingData/Cells/cells_Frame01497.png 1 9 36 90 80
+TrainingData/Cells/cells_Frame01500.png 2 69 24 41 39 54 60 62 45
+TrainingData/Cells/cells_Frame01501.png 2 35 18 48 49 22 59 80 55
+TrainingData/Cells/cells_Frame01502.png 2 7 19 52 41 2 62 80 52
+TrainingData/Cells/cells_Frame01538.png 1 34 2 81 51
+TrainingData/Cells/cells_Frame01539.png 1 2 2 84 52
+TrainingData/Cells/cells_Frame01541.png 1 6 13 98 83
+TrainingData/Cells/cells_Frame01544.png 2 63 4 49 33 50 36 68 48
+TrainingData/Cells/cells_Frame01545.png 2 33 1 52 39 15 31 83 60
+TrainingData/Cells/cells_Frame01599.png 1 25 49 78 62
+TrainingData/Cells/cells_Frame01600.png 1 4 49 66 65
+TrainingData/Cells/cells_Frame01636.png 1 50 66 64 51
+TrainingData/Cells/cells_Frame01637.png 1 20 64 67 55
+TrainingData/Cells/cells_Frame01638.png 1 0 63 64 55
+TrainingData/Cells/cells_Frame01680.png 1 49 31 67 82
+TrainingData/Cells/cells_Frame01681.png 1 17 30 76 80
+TrainingData/Cells/cells_Frame01682.png 1 0 31 68 79
+TrainingData/Cells/cells_Frame01686.png 1 57 5 60 53
+TrainingData/Cells/cells_Frame01687.png 1 28 1 73 66
+TrainingData/Cells/cells_Frame01688.png 1 0 0 80 65
+TrainingData/Cells/cells_Frame01724.png 1 48 3 69 88
+TrainingData/Cells/cells_Frame01725.png 1 18 4 79 85
+TrainingData/Cells/cells_Frame01726.png 1 0 7 68 80
+TrainingData/Cells/cells_Frame01744.png 1 54 49 62 65
+TrainingData/Cells/cells_Frame01745.png 1 33 49 78 59
+TrainingData/Cells/cells_Frame01746.png 1 7 47 76 60
+TrainingData/Cells/cells_Frame01753.png 1 54 67 60 50
+TrainingData/Cells/cells_Frame01754.png 1 22 71 67 46
+TrainingData/Cells/cells_Frame01789.png 1 27 19 83 68
+TrainingData/Cells/cells_Frame01790.png 1 5 20 77 66
+TrainingData/Cells/cells_Frame01797.png 1 61 38 55 68
+TrainingData/Cells/cells_Frame01798.png 1 26 47 68 55
+TrainingData/Cells/cells_Frame01799.png 1 0 38 60 71
+TrainingData/Cells/cells_Frame01815.png 3 78 44 33 35 75 73 36 43 49 68 31 44
+TrainingData/Cells/cells_Frame01816.png 3 41 37 46 49 42 78 55 31 16 70 37 40
+TrainingData/Cells/cells_Frame01820.png 1 38 12 70 87
+TrainingData/Cells/cells_Frame01821.png 1 7 17 69 85
+TrainingData/Cells/cells_Frame01822.png 2 0 19 45 81 56 31 51 59
+TrainingData/Cells/cells_Frame01823.png 2 26 32 52 60 71 23 47 73
+TrainingData/Cells/cells_Frame01824.png 2 4 28 38 63 39 30 66 72
+TrainingData/Cells/cells_Frame01825.png 1 11 22 72 79
+TrainingData/Cells/cells_Frame01832.png 1 46 6 72 71
+TrainingData/Cells/cells_Frame01833.png 1 18 3 89 61
+TrainingData/Cells/cells_Frame01834.png 1 2 0 78 65
+TrainingData/Cells/cells_Frame01841.png 1 53 6 65 72
+TrainingData/Cells/cells_Frame01842.png 1 19 6 78 77
+TrainingData/Cells/cells_Frame01843.png 1 0 8 65 75
+TrainingData/Cells/cells_Frame01847.png 1 55 55 64 64
+TrainingData/Cells/cells_Frame01848.png 1 18 54 79 65
+TrainingData/Cells/cells_Frame01849.png 2 18 66 64 45 4 33 54 51
+TrainingData/Cells/cells_Frame01859.png 3 70 13 42 47 74 44 39 51 44 39 43 48
+TrainingData/Cells/cells_Frame01860.png 3 39 10 47 46 42 46 47 50 13 38 45 52
+TrainingData/Cells/cells_Frame01861.png 2 9 8 55 48 19 43 45 42
+TrainingData/Cells/cells_Frame01863.png 2 32 77 72 41 63 6 55 66
+TrainingData/Cells/cells_Frame01864.png 2 31 1 84 68 7 71 78 48
+TrainingData/Cells/cells_Frame01865.png 2 5 0 81 74 82 10 36 43
+TrainingData/Cells/cells_Frame01866.png 1 53 8 53 45
+TrainingData/Cells/cells_Frame01867.png 3 27 7 52 46 72 9 7 44 72 9 45 54
+TrainingData/Cells/cells_Frame01868.png 2 39 6 66 70 0 9 54 48
+TrainingData/Cells/cells_Frame01869.png 1 10 9 64 62
+TrainingData/Cells/cells_Frame01870.png 1 5 14 44 54
+TrainingData/Cells/cells_Frame01885.png 2 57 0 62 53 52 63 65 53
+TrainingData/Cells/cells_Frame01886.png 2 14 57 93 57 23 1 69 48
+TrainingData/Cells/cells_Frame01887.png 2 0 57 83 61 1 0 61 48
+TrainingData/Cells/cells_Frame01888.png 2 1 0 35 45 2 59 51 58
+TrainingData/Cells/cells_Frame01891.png 1 58 24 58 79
+TrainingData/Cells/cells_Frame01892.png 1 27 32 73 72
+TrainingData/Cells/cells_Frame01893.png 2 6 12 40 41 22 29 70 55
+TrainingData/Cells/cells_Frame01906.png 1 74 40 42 63
+TrainingData/Cells/cells_Frame01907.png 1 30 49 81 65
+TrainingData/Cells/cells_Frame01908.png 1 6 44 78 71
+TrainingData/Cells/cells_Frame01929.png 1 50 31 69 55
+TrainingData/Cells/cells_Frame01930.png 1 20 25 92 72
+TrainingData/Cells/cells_Frame01931.png 1 2 22 78 73
+TrainingData/Cells/cells_Frame01935.png 1 64 6 55 72
+TrainingData/Cells/cells_Frame01936.png 1 30 5 69 67
+TrainingData/Cells/cells_Frame01937.png 1 24 6 57 43
+TrainingData/Cells/cells_Frame01938.png 1 4 10 51 43
+TrainingData/Cells/cells_Frame01950.png 1 4 16 65 37
+TrainingData/Cells/cells_Frame01951.png 1 38 18 69 71
+TrainingData/Cells/cells_Frame01952.png 1 9 13 73 81
+TrainingData/Cells/cells_Frame01953.png 1 0 9 55 82
+TrainingData/Cells/cells_Frame01973.png 1 50 6 63 55
+TrainingData/Cells/cells_Frame01974.png 1 17 2 95 60
+TrainingData/Cells/cells_Frame01975.png 1 0 4 80 59
+TrainingData/Cells/cells_Frame01995.png 1 21 1 93 61
+TrainingData/Cells/cells_Frame01996.png 1 0 3 92 66
